@@ -3,14 +3,11 @@ Description:
 Script to check router , Module firmware and
 installed IPK packages on LTE IoT router 
 Platform: Embedded Linux
-Author: Amir Nejad
-Copyright (C) 2021
 """
 
 import paramiko
 import warnings
 import logging
-
 import sys
 
 logging.basicConfig(filename=r'C:\Users\amirn\Dropbox\Amir\PYTHON\AmirPython\IoT\Logs\FW_IPK.log',
