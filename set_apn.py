@@ -2,8 +2,7 @@
 Description:
 Script to set the APN name and its parameters for Data Profile 1
 Platform: Embedded Linux
-Author: Amir Nejad
-Copyright (C) 2021
+Author: Amir Nejad 
 """
 import paramiko
 import time
