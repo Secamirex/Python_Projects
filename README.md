@@ -16,12 +16,12 @@ MD5Checksum.py
 Purpose: Calculates the MD5 hash of a specified file.
 Use Case: Can be used for verifying file integrity and ensuring that files have not been altered or corrupted.
 
-basic_Portscanner
+basic_Portscanner.py
 
 Purpose: A simple port scanner that performs a quick scan of specified IP addresses.
 Use Case: Useful for network diagnostics, helping identify open ports and potential security vulnerabilities.
 
-getBanner
+getBanner.py
 
 Purpose: Retrieves host service details, often used to gather information about the services running on a host.
 Use Case: Can aid in penetration testing or system audits by revealing server software versions and configurations.
